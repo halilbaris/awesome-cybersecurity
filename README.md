@@ -32,6 +32,7 @@ Cybersecurity is essential to securing digital infrastructure, ensuring privacy,
 - [Cybrary](https://www.cybrary.it/) – Free and paid cybersecurity courses and career paths.
 - [Hack The Box](https://www.hackthebox.com/) – Platform to learn and test hacking skills in virtual labs.
 - [TryHackMe](https://tryhackme.com/) – Beginner-friendly cybersecurity learning platform with gamified challenges.
+- [InfoSecLabs](https://infoseclabs.io/) – Hands-on SOC analyst training platform with real-world breach scenarios, 108+ CTF challenges, enterprise tools, and AI mentorship.
 - [Open Security Training](http://opensecuritytraining.info/) – In-depth free security training courses.
 - [Blue Team Labs Online](https://blueteamlabs.online/) – Interactive blue team labs and simulations.
 
